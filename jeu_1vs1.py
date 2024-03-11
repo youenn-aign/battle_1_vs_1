@@ -6,7 +6,7 @@ WIDTH = 128
 HEIGHT = 128
 OBJ_SIZE = (6,8)
 ecran_de_debut = True
-
+#
 JEU = True
 coffre = False
 deplacement_j1 = True
